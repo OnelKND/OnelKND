@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angekounde3@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angekounde3@gmail.com) <br>
 My Portfolio 👨‍💻:https://neldevportfolio.netlify.app
 
 # 💻 Tech Stack:
